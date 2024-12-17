@@ -1,5 +1,5 @@
 # Take-Home Assignment: Junior WordPress Developer
-
+Live Site Preview:- https://mrsnyderhard.github.io/wordpress/
 ## Assignment Overview
 This repository contains my submission for the Junior WordPress Developer take-home assignment. Below are the instructions, setup details, and explanations for each part of the task.
 
